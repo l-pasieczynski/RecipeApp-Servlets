@@ -1,4 +1,5 @@
 RecipeApp application for adding and managing nutritional plans and recipes.
+Pair Programming with Jerzy Palka: https://github.com/kudini
 
 - landing page, which is to encourage the use of the application, displaying - basic information about the project,
 
