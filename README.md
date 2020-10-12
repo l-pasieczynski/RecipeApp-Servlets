@@ -1,24 +1,41 @@
+# Recipe App (Servlets)
 RecipeApp application for adding and managing nutritional plans and recipes.
+
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+
+## General info
 Pair Programming with Jerzy Palka: https://github.com/kudini
+A project created to learn about the Scrum methodology and practice group work on Github.
 
-- landing page, which is to encourage the use of the application, displaying - basic information about the project,
+## Screenshots
+![Example screenshot](./img/ModelDB.png)
 
-- a browser application that allows:
-      - registration,
-      - logging in,
-      - adding, modifying and deleting recipes,
-      - displaying a list of recipes,
-      - creating, viewing and modifying a nutrition schedule,
-      - browsing and blocking users by the administrator,
-      - meal list management for logged in user.
+## Technologies
+* Tech 1 - Servlets
+* Tech 2 - JavaServer Pages (JSP, ready template in html)
+* Tech 3 - data access layers in the form of DAO classes
+* Tech 4 - MySQL databases
 
-Technologies used:
-- servlets,
-- a ready template,
-- JSP,
-- MySQL databases,
-- data access layers in the form of DAO classes.
+## Setup
+* Download files
+* Configure Local Tomcat server with deployment as war:exploded
+* Start app in IDE, browser should open automaticly on landing page
+* if not 
 
-In the project we do not perform:
-- data validation,
-- password repeated validation during registration.
+## Features
+* registration
+* logging in
+* adding, modyfing and deleting recipes
+* displaying a list of recipes
+* creating, viewing and modyfing a nutrition schedule
+* browsing and blocking users by administrator
+* meal list managment for logged user
+
+## Status
+Project is finished
