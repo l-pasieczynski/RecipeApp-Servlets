@@ -17,16 +17,15 @@ A project created to learn about the Scrum methodology and practice group work o
 ![Example screenshot](./img/ModelDB.png)
 
 ## Technologies
-* Tech 1 - Servlets
-* Tech 2 - JavaServer Pages (JSP, ready template in html)
-* Tech 3 - data access layers in the form of DAO classes
-* Tech 4 - MySQL databases
+* Servlets
+* JavaServer Pages (JSP, ready template in html)
+* Data access layers in the form of DAO classes
+* MySQL databases
 
 ## Setup
 * Download files
 * Configure Local Tomcat server with deployment as war:exploded
 * Start app in IDE, browser should open automaticly on landing page
-* if not 
 
 ## Features
 * registration
