@@ -10,7 +10,7 @@ RecipeApp application for adding and managing nutritional plans and recipes.
 * [Status](#status)
 
 ## General info
-Pair Programming with Jerzy Palka: https://github.com/kudini
+Pair Programming with Jerzy Palka: https://github.com/kudini. </br>
 A project created to learn about the Scrum methodology and practice group work on Github.
 
 ## Screenshots
