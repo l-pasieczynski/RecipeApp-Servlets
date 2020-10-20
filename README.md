@@ -14,7 +14,10 @@ Pair Programming with Jerzy Palka: https://github.com/kudini
 A project created to learn about the Scrum methodology and practice group work on Github.
 
 ## Screenshots
-![Example screenshot](./img/ModelDB.png)
+![Database model](./img/ModelDB.png)
+![App dashboard](./img/dashboard.png)
+![Recipe edit](./img/recipe.png)
+![Users list](./img/users.png)
 
 ## Technologies
 * Java
