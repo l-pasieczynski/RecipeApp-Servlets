@@ -17,6 +17,7 @@ A project created to learn about the Scrum methodology and practice group work o
 ![Example screenshot](./img/ModelDB.png)
 
 ## Technologies
+* Java
 * Servlets
 * JavaServer Pages (JSP, ready template in html)
 * Data access layers in the form of DAO classes
